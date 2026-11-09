@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carrossel Twitter — Saúde"
+  short_description: "Carrosséis de saúde com texto natural e PNGs"
+  default_prompt: "Use $carrossel-twitter-saude para criar um carrossel de opinião sobre um tema de treino, seguindo o visual aprovado do Gabriel Arouck e entregando PNGs, HTML e legenda."
